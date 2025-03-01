@@ -1,0 +1,17 @@
+*Html{
+    box-sizing: border-box;
+}
+
+.Container{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 50px;
+    border: 2px solid red;
+    padding: 25px;
+
+}
+
+.head{
+    
+}
